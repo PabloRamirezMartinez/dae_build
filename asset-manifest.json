@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f336c0f5.css",
-    "main.js": "/static/js/main.f69f8366.js",
+    "main.js": "/static/js/main.99f3b18f.js",
     "static/media/wlpper.jpg": "/static/media/wlpper.9091a6f03c4871e30486.jpg",
     "static/media/cancha.png": "/static/media/cancha.3e08453a7dd2a592a763.png",
     "static/media/LogoInacap.png": "/static/media/LogoInacap.23e3e5771b2f67fc3353.png",
@@ -13,10 +13,10 @@
     "static/media/oswald-cyrillic-ext-400-normal.woff2": "/static/media/oswald-cyrillic-ext-400-normal.7b46ac3618f42c81c1cf.woff2",
     "index.html": "/index.html",
     "main.f336c0f5.css.map": "/static/css/main.f336c0f5.css.map",
-    "main.f69f8366.js.map": "/static/js/main.f69f8366.js.map"
+    "main.99f3b18f.js.map": "/static/js/main.99f3b18f.js.map"
   },
   "entrypoints": [
     "static/css/main.f336c0f5.css",
-    "static/js/main.f69f8366.js"
+    "static/js/main.99f3b18f.js"
   ]
 }
